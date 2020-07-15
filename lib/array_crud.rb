@@ -15,7 +15,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   name_of_family = ["erik", "isa", "adi", "nena"]
-  name_of_family.unshift("arrays!")
+  name_of_family.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
