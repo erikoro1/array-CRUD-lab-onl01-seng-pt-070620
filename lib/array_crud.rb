@@ -30,7 +30,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  name_of_family = ["erik", "isa", "adi", "nena"]
+  name_of_family = ["erik", "isa", "adi", "nena", "am"]
+  name_of_family[4]
   
 end
 
