@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  name_of_family = ["erik", "isa", "adi", "nena"]
+  name_of_family = ["erik", "isa", "adi", "nena", "arrays!"]
   name_of_family.pop
   
 end
