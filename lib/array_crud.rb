@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  name_of_family = ["wow", "I", "am", "really"]
+  name_of_family = ["Erik", "Isa", "Adi", "Nena"]
   
 end
 
