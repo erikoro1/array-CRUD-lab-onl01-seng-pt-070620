@@ -25,7 +25,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  name_of_family = ["erik", "isa", "adi", "nena", "wow"]
+  name_of_family = ["wow", "isa", "adi", "nena",]
   name_of_family.shift
 end
 
