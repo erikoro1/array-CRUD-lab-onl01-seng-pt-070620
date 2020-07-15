@@ -4,12 +4,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  name_of_family = ["Erik", "Isa", "Adi", "Nena"]
+  name_of_family = ["erik", "isa", "adi", "nena"]
   
 end
 
 def add_element_to_end_of_array(array, element)
- array = 
+
   
 end
 
