@@ -39,7 +39,6 @@ def retrieve_first_element_from_array(array)
   name_of_family = ["wow", "erik", "isa", "adi", "erika", "nena"]
   name_of_family[0]
 
-  
 end
 
 def retrieve_last_element_from_array(array)
