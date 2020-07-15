@@ -42,7 +42,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  name_of_family = ["erik", "isa", "adi", "erika", "nena" "arrays!"]
-  name_of_family[5]
+  name_of_family = ["isa", "adi", "erika", "nena" "arrays!"]
+  name_of_family [4]
 end
  
